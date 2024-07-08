@@ -1,7 +1,7 @@
 Do you want to take breaks when working on a Word, Excel, Access or PowerPoint project and go outside or make your bed?
 
 Look no further, this app will basically block every input to your PC after the time set in settings.ini (or default, 50min work and 15min break)!!!
-Also, it will play a cool song of your choosing, just make sure it is in the same folder as the executable and that it is named "BreakSound.wav"! exactly like that or it wont work
+Also, it will play a cool song of your choosing, just make sure it is in the same folder as the executable and that it is named "BreakSound.wav"! exactly like that or it will default to the windows default error sound on a loop and you will go crazy
 it must be a wav :O!!!
 After the break time is over the computer unblocks and you can go back to your boring stuff.
 
