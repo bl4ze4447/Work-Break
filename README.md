@@ -14,6 +14,7 @@ What is new? (current V1.0 GUI, oldest V0.9 CLI, check commits for older version
 - Full Unicode support
 - Code split between classes to enhance readability
 - Optimized performance
+- Even better error handling and user-app communication.
 
 Known bugs:
 - Not able to detect all processes, a fix is in the works already
@@ -21,3 +22,6 @@ Known bugs:
 
 Fixed bugs:
 - App could be run more than once if the name was changed.
+
+There is the executale version if you do not know how to setup Qt and compile the project but compiling it yourself is recommended!
+The app must be elevated when running or BlockInput() will not work.
