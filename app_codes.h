@@ -1,0 +1,12 @@
+#ifndef APP_CODES_H
+#define APP_CODES_H
+
+enum Code {
+    OK = 0,
+    INVALID_SNAPSHOT,
+    INVALID_INPUT_BLOCK,
+    INVALID_INPUT_UNBLOCK,
+    INSTANCE_ALREADY_RUNNING,
+};
+
+#endif //APP_CODES_H
