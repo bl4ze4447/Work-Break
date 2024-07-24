@@ -2,6 +2,8 @@ V1.0 GUI
 How many times were you working on a project and told yourself you would stop after some time but never did? No need to answer, the solution is here.
 Work-Break, your guardian angel that stops you from overworking is back and it is more powerful than ever, coming with an easy to use GUI and the freedom to modify everything setting with ease is here.
 
+![Work-Break-V1.0](https://i.imgur.com/ZxYdFXr.png)
+
 What is new?
 - GUI written in Qt Community (C++)
   * (Only Windows at the moment is working because of the file_parser class, will update for macOS and Linux systems in next version)
@@ -20,11 +22,10 @@ Known bugs:
 
 Fixed bugs:
 - App could be run more than once if the name was changed.
-
-
-
-
-
+/ 
+/
+/
+/
 (old version)
 V0.9 CLI
 Do you want to take breaks when working on a Word, Excel, Access or PowerPoint project and go outside or make your bed?
