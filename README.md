@@ -17,7 +17,6 @@ What is new? (current V1.0 GUI, oldest V0.9 CLI, check commits for older version
 - Even better error handling and user-app communication.
 
 Known bugs:
-- Not able to detect all processes, a fix is in the works already
 - In case a process is opened multiple times, its timer will just reset since it thinks it was reopened, a fix is in the works already
 
 Fixed bugs:
