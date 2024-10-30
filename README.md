@@ -1,9 +1,6 @@
-How many times were you working on a project and told yourself you would stop after some time but never did? No need to answer, the solution is here.
-Work-Break, your guardian angel that stops you from overworking is back and it is more powerful than ever, coming with an easy to use GUI and the freedom to modify it to your own liking.
+# Work-Break, the solution to overworking, now has an easy to use GUI. ![C++](https://img.shields.io/badge/Language-C++-green) ![Qt Community](https://img.shields.io/badge/GUI-Qt-blue) ![Love](https://img.shields.io/badge/Built_with-love❤️-red)
 
-![Work-Break-V1.0](https://i.imgur.com/ZxYdFXr.png)
-
-What is new? (current V1.0 GUI, oldest V0.9 CLI, check commits for older version)
+## What is new? 
 - GUI written in Qt Community (C++)
   * (Only Windows at the moment is working because of the file_parser class, will update for macOS and Linux systems in next version)
 - Processes, the time period of working and of the break and the song name/path are now stored between sessions
@@ -16,11 +13,12 @@ What is new? (current V1.0 GUI, oldest V0.9 CLI, check commits for older version
 - Optimized performance
 - Even better error handling and user-app communication.
 
-Known bugs:
+![Work-Break-V1.0](https://i.imgur.com/ZxYdFXr.png) *Important: The app must be elevated when running or BlockInput() will not work.
+
+## Known bugs:
 - In case a process is opened multiple times, its timer will just reset since it thinks it was reopened, a fix is in the works already
 
-Fixed bugs:
+## Fixed bugs:
 - App could be run more than once if the name was changed.
 
-There is the executale version if you do not know how to setup Qt and compile the project but compiling it yourself is recommended!
-The app must be elevated when running or BlockInput() will not work.
+
