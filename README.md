@@ -1,4 +1,4 @@
-# Work-Break, the solution to overworking, now has an easy to use GUI. ![C++](https://img.shields.io/badge/Language-C++-green) ![Qt Community](https://img.shields.io/badge/GUI-Qt-blue) ![Love](https://img.shields.io/badge/Built_with-love❤️-red)
+# Work-Break, the solution to overworking, now has an easy to use GUI. ![C++](https://img.shields.io/badge/Language-C++-blue) ![Qt Community](https://img.shields.io/badge/GUI-Qt-green) ![Love](https://img.shields.io/badge/Built_with-love❤️-red)
 
 ## What is new? 
 - GUI written in Qt Community (C++)
